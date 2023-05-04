@@ -3,6 +3,14 @@
 ## Documentation and Project Files
 All files for peer review are contained within
 
+## Project Description
+This project seeks to investigate hospital appointments no-show trends. is attendance a function of age, ailment type or proximity to the hospital? It may also be that SMS prompt play a vital role in helping people honor hospital appointments. 
+
+    ## Questions for Analysis
+    * What age ranges are more likely to honor appointments as well as the ages that most likely wouldn't?
+    * Does SMS prompts play an important role in appoinment showup rates?
+    * What percentage of males and females are enrolled in welfare programs?
+    
 ## Objective 
 To satisfy an end to end data engineering life cycle.
 
