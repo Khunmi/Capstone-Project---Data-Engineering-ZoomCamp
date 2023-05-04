@@ -25,6 +25,10 @@ To satisfy an end to end data engineering life cycle.
 
 * Google Data Studio: To generate insights from my dataset, I connected my data source located in my data warehouse(Bigquery). Have a look at my dashboard link here https://lookerstudio.google.com/reporting/d7164b60-c4ee-4c65-937d-d10a23b1a75d
 
+![image](https://user-images.githubusercontent.com/95039004/236275008-5d965704-c5c9-4186-b657-1de3bced87bd.png)
+
+
+
 ### Dataset
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the
