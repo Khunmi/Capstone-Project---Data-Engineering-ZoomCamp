@@ -1,7 +1,7 @@
 ## Capstone Project: Batch Processing- No-Show Appointment Dataset
 
 ## Documentation and Project Files
-All files for peer review are contained in folde 'Week 5'
+All files for peer review are contained within
 
 ## Objective 
 To satisfy an end to end data engineering life cycle.
