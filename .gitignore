@@ -2,9 +2,13 @@
 /code/05_taxi_schema.ipynb
 /code/03_test.ipynb
 /code/08_rdds.ipynb
+/code/2_data_schema.ipynb
 /code/09_spark_gcs.ipynb
 /code/homework.ipynb
 /code/06_spark_sql.py
+/code/3_SQL_with_Spark.ipynb
+/code/5_SQL_with_StandAlone_Spark.ipynb
+/code/5_SQL_with_StandAlone_Spark.py
 /code/06_spark_sql_big_query.py
 /code/head.csv
 /code/fhvhv_tripdata_2021-01.csv
@@ -16,3 +20,5 @@ data/
 fhvhv/
 lib/
 capstone/cleaned_data/
+/code/06_spark_sql.ipynb
+/code/07_groupby_join.ipynb
