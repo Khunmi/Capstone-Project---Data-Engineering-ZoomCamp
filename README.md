@@ -23,7 +23,7 @@ The following technologies are used to build this project
 ## Reproduce it yourself
 1. First clone this repo to your local machine.
 
-`git clone https://github.c`
+`git clone https://github.com/Khunmi/Capstone-Project---Data-Engineering-ZoomCamp`
 
 2. Setup your Google Cloud environment
 - Create a [Google Cloud Platform project](https://console.cloud.google.com/cloud-resource-manager)
@@ -64,7 +64,7 @@ gcloud dataproc jobs submit pyspark \
 
 8. Google Data Studio: To generate insights from my dataset, I connected my data source located in my data warehouse(Bigquery). Have a look at my dashboard link [here](https://lookerstudio.google.com/reporting/d7164b60-c4ee-4c65-937d-d10a23b1a75d)
 
-[](images/dashboard.png)
+![dashboard](images/dashboard.png)
 
 ### Dataset Description
 
